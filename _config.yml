@@ -9,6 +9,7 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "/blog" # the subpath of your site, e.g. /blog
+site.baseurl: "/blog"
 url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
